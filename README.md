@@ -3,7 +3,6 @@ A simple smash-bros pixel type game I made in python using pygame
 
 
 Controls:  
-
 M - Toggle Music  
 . - Spawn Powerup  
 
@@ -24,4 +23,4 @@ Page Up - Ranged Attack
 Page Down - Switch Weapon  
 
 
-To switch texture packs for powerups, set good to False on line 24
+# To switch texture packs for powerups, set good to False on line 24
