@@ -8,12 +8,12 @@ M - Toggle Music
 . - Spawn Powerup
 
 Player 1 (Red):
-W - Jump `<br>`
-A - Move Left
-S - Move Down / Deal damage while colliding (Bonking)
-D - Move Right
-Q - Ranged Attack
-E - Switch Weapon
+W - Jump  
+A - Move Left  
+S - Move Down / Deal damage while colliding (Bonking)  
+D - Move Right  
+Q - Ranged Attack  
+E - Switch Weapon  
 
 Player 2 (Red):
 Up Arrow - Jump
