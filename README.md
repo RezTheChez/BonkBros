@@ -8,7 +8,7 @@ M - Toggle Music
 . - Spawn Powerup
 
 Player 1 (Red):
-W - Jump
+W - Jump `<br>`
 A - Move Left
 S - Move Down / Deal damage while colliding (Bonking)
 D - Move Right
